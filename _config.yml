@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://kusora.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: kusora's Blog
+subtitle: 太阳底下无新事
+author: kusora
 simple_search: https://www.google.com/search
 description:
 
@@ -99,3 +99,7 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+weibo_share: true
+auto: true
+
