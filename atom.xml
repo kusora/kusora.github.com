@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-03-06T01:01:14+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[kusora's Blog]]></title>
+  <link href="http://kusora.github.io/atom.xml" rel="self"/>
+  <link href="http://kusora.github.io/"/>
+  <updated>2015-03-06T01:40:34+08:00</updated>
+  <id>http://kusora.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[kusora]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Blog]]></title>
-    <link href="http://yoursite.com/blog/2015/03/06/my-first-blog/"/>
+    <link href="http://kusora.github.io/blog/2015/03/06/my-first-blog/"/>
     <updated>2015-03-06T00:58:41+08:00</updated>
-    <id>http://yoursite.com/blog/2015/03/06/my-first-blog</id>
+    <id>http://kusora.github.io/blog/2015/03/06/my-first-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
