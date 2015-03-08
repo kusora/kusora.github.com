@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[kusora's Blog]]></title>
-  <link href="http://kusora.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 生活 | kusora's Blog]]></title>
+  <link href="http://kusora.github.io/blog/categories/sheng-huo/atom.xml" rel="self"/>
   <link href="http://kusora.github.io/"/>
   <updated>2015-03-08T21:13:58+08:00</updated>
   <id>http://kusora.github.io/</id>
