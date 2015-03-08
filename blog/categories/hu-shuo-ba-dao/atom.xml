@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 胡说八道 | kusora's Blog]]></title>
+  <link href="http://kusora.github.io/blog/categories/hu-shuo-ba-dao/atom.xml" rel="self"/>
+  <link href="http://kusora.github.io/"/>
+  <updated>2015-03-09T00:13:27+08:00</updated>
+  <id>http://kusora.github.io/</id>
+  <author>
+    <name><![CDATA[kusora]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[关于今后互联网的一些看法]]></title>
+    <link href="http://kusora.github.io/blog/2015/03/08/think-on-internet/"/>
+    <updated>2015-03-08T21:26:19+08:00</updated>
+    <id>http://kusora.github.io/blog/2015/03/08/think-on-internet</id>
+    <content type="html"><![CDATA[<h1>起因</h1>
+
+<p>由于从小受到的教育影响，想事情总喜欢提纲挈领的从本质上考虑，而不是一个点一个点的慢慢的解决，总想一口吃个胖子，就比如中国的环境问题吧，很多人都没有意识到这是一个很复杂的事情，总以为有一刀切的方案，但没想到真正要实现环保目标，是一个长期的阵痛的过程，观念上的转变只是刚开始，现实并没有那么美好，跑题了，这种总想从根本上解决问题的套路导致的结果放在思考事情上，很多时候会使得结论变得模棱两可，总能得到事情总是相对的这个结论，从而忽略了当前的主要矛盾，也即是缺乏定量分析，但这并不妨碍我们将自己现有的信息有效的梳理一遍，给出几种可能的答案</p>
+
+<h1>未来的入口</h1>
+
+<p>互联网将人们连在了一起，但是人们怎么找到其他人，怎么找到有效的信息，分发入口有哪些？目前有四种形式，一种是检索式的，以google为首，一种是百科全书式的，老式的雅虎，都是按照领域对信息进行了组织，第三种属于通过社交网络进行的推荐，第四种就是物理空间，其中前两种入口基本上都合并了。</p>
+
+<p>类似于淘宝，各大应用商店就是中心检索式和百科全书式的组合， 属于中心式，而微店就是基于sns的分布式，他们的打击目标都是物理空间。</p>
+
+<p>那么如果未来要做一款产品，首先就要思考该产品的入口从哪里来？从中心式的入口买流量？从SNS上面推广？还是物理空间投广告？其实如果细化分了，SNS上面的大V也算是中心式了，比如微博，而微信的朋友圈则更加底层，属于分布式的入口，现如今很多低成本的营销也都是从这里入手。目前中心式分发渠道本身之间竞争激烈，分布式渠道貌似就只有微信一家独大，微博也算一部分。</p>
+
+<p>那么很显然，如果有一款产品天生适合朋友圈呢，是不是就能火了呢？借助于熟人之间的信任关系和关系链，本身完成产品的核心价值以及传播，那么这样的产品在哪里呢？我倒是有个想法，可以先在微信公众号上面试验一下。</p>
+]]></content>
+  </entry>
+  
+</feed>
